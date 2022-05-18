@@ -1,2 +1,2 @@
 # python_unit_testing
-Basic unit testing with unittest.
+Recap on basic unit testing with unittest.
